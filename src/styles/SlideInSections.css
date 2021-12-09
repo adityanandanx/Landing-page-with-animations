@@ -1,0 +1,33 @@
+.slide-in-container {
+  width: 100%;
+}
+
+.slide-in-section {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  /* padding: 0 7rem; */
+  width: 100%;
+  height: 100vh;
+}
+
+.slide-in-section div {
+  padding: 0 7rem;
+}
+
+.slide-in-section img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.slide-in-container > :nth-child(1) {
+  background-color: #ffeadf;
+}
+.slide-in-container > :nth-child(2) {
+  background-color: #fffddf;
+}
+.slide-in-container > :nth-child(3) {
+  background-color: #ffdfdf;
+}

@@ -1,0 +1,35 @@
+.btn {
+  padding: 0.6em 1em;
+  margin: 0.5rem;
+  background-color: white;
+  color: #000;
+  font-size: 0.9rem;
+  border: none;
+  outline: none;
+  border-radius: 100vw;
+  transition: background-color 0.1s ease-out, transform 0.1s ease-out,
+    color 0.1s ease-out;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: fit-content;
+}
+.btn:hover {
+  transform: translateY(-2px);
+  background-color: whitesmoke;
+  color: #000;
+}
+
+.btn-cta {
+  background-color: var(--primary-clr);
+}
+.btn-cta:hover {
+  background-color: var(--secondary-clr);
+}
+
+.btn-cta-secondary {
+  background-color: transparent;
+  border: solid 2px var(--primary-clr);
+}
+.btn-cta-secondary:hover {
+  background-color: var(--primary-clr);
+}

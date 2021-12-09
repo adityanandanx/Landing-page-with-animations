@@ -1,0 +1,39 @@
+.hero {
+  display: flex;
+  width: 100%;
+  line-height: 0.95;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background: url("../assets/fluid.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  gap: 1rem;
+}
+
+.hero h4 {
+  max-width: 30rem;
+}
+
+.hero-input {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 100vw;
+  /* padding: 0 0.5rem; */
+  background-color: #ffffff;
+}
+
+.hero-input input {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.hero-input button {
+}

@@ -1,0 +1,63 @@
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: all 0.1s ease-out;
+}
+
+a:hover {
+  color: rgb(100, 100, 100);
+  transform: translateY(-2px);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 800;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+p {
+  text-align: justify;
+}
+
+.lorem {
+  line-height: 2;
+}
+img {
+  width: 80%;
+}
+
+input {
+  padding: 1rem;
+  border-radius: 100vw;
+  border: none;
+  outline: none;
+  min-width: 20rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.circle.animated {
+  position: absolute;
+  z-index: 100;
+}
+
+.circle {
+  border-radius: 100%;
+  width: 10rem;
+  height: 10rem;
+  background-color: var(--secondary-clr);
+  transform: translateX(-50%) translateY(-50%);
+  mix-blend-mode: color-burn;
+}
