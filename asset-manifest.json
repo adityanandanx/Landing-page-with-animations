@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Landing-page-with-animations/static/css/main.c534a739.chunk.css",
+    "main.js": "/Landing-page-with-animations/static/js/main.480fcc1f.chunk.js",
+    "main.js.map": "/Landing-page-with-animations/static/js/main.480fcc1f.chunk.js.map",
+    "runtime-main.js": "/Landing-page-with-animations/static/js/runtime-main.8a53bd38.js",
+    "runtime-main.js.map": "/Landing-page-with-animations/static/js/runtime-main.8a53bd38.js.map",
+    "static/js/2.cd3c426e.chunk.js": "/Landing-page-with-animations/static/js/2.cd3c426e.chunk.js",
+    "static/js/2.cd3c426e.chunk.js.map": "/Landing-page-with-animations/static/js/2.cd3c426e.chunk.js.map",
+    "index.html": "/Landing-page-with-animations/index.html",
+    "static/css/main.c534a739.chunk.css.map": "/Landing-page-with-animations/static/css/main.c534a739.chunk.css.map",
+    "static/js/2.cd3c426e.chunk.js.LICENSE.txt": "/Landing-page-with-animations/static/js/2.cd3c426e.chunk.js.LICENSE.txt",
+    "static/media/flowers.fc08779e.jpg": "/Landing-page-with-animations/static/media/flowers.fc08779e.jpg",
+    "static/media/Hero.css": "/Landing-page-with-animations/static/media/fluid.948e5a57.jpg",
+    "static/media/soap-bubble.e6b1e2d1.jpg": "/Landing-page-with-animations/static/media/soap-bubble.e6b1e2d1.jpg",
+    "static/media/winter.71158dc3.jpg": "/Landing-page-with-animations/static/media/winter.71158dc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a53bd38.js",
+    "static/js/2.cd3c426e.chunk.js",
+    "static/css/main.c534a739.chunk.css",
+    "static/js/main.480fcc1f.chunk.js"
+  ]
+}
